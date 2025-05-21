@@ -51,8 +51,12 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-[![code-for-rice 's github stats](https://github-readme-stats.vercel.app/api?username=code-for-rice&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-for-rice&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-for-rice&show_icons=true&line_height=21&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-for-rice&layout=compact&theme=vue&hide_border=true" />
+</div>
+
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
